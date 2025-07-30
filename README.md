@@ -30,3 +30,6 @@ Factlenz is a cutting-edge news platform built with React that integrates machin
    ```bash
    git clone https://github.com/your-username/factlenz-News-App.git
    cd factlenz-News-App
+
+   Made with LOVE by PIYUSH & team !!
+   
