@@ -1,6 +1,6 @@
-# Infolenz: A React-Based News Website with Fake News Detection
+# Factlenz: A React-Based News Website with Fake News Detection
 
-Infolenz is a cutting-edge news platform built with React that integrates machine learning models to detect fake news. Users can access real-time news updates while leveraging advanced technology to ensure the authenticity of the information.
+Factlenz is a cutting-edge news platform built with React that integrates machine learning models to detect fake news. Users can access real-time news updates while leveraging advanced technology to ensure the authenticity of the information.
 
 ## Features
 - **News Aggregation**: Browse news articles from multiple categories.
@@ -28,5 +28,5 @@ Infolenz is a cutting-edge news platform built with React that integrates machin
 ### Steps
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/Infolenz-News-App.git
-   cd Infolenz-News-App
+   git clone https://github.com/your-username/factlenz-News-App.git
+   cd factlenz-News-App
